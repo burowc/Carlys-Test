@@ -21,4 +21,7 @@ nav_order: 1
   
   :hatched_chick:
   
+  ##another image##
+  
+  ![This is an image](https://static.vecteezy.com/system/resources/previews/007/528/060/original/duck-cartoon-colored-clipart-illustration-free-vector.jpg)
 
